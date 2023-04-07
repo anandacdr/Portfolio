@@ -1,0 +1,1 @@
+print("This Project is all about Document Data Extraction.")
